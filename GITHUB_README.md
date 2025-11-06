@@ -1,6 +1,4 @@
-# Vibe Coding for Surgical Residents
-
-> **Get from zero to analyzing your own surgical data in 2 hours, not 2 months.**
+# Vibe Coding for Surgeons
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
@@ -10,11 +8,11 @@
 
 ## 🎯 What is This?
 
-**The Problem:** You have surgical data. You want to analyze it. But learning Python takes months, and you're busy saving lives.
+**The Problem:** You have surgical data. You want to analyze it. But learning Python takes months, and you just want to get it done.
 
-**The Solution:** Use AI (Claude) to write the code for you. You focus on the medicine and science.
+**The Solution:** Use AI (Claude) to write the code for you.
 
-**This Repository:** A complete guide + working example that gets surgical residents analyzing data in hours, not weeks.
+**This Repository:** A complete guide + working example that gets surgeons analysing data in hours, not weeks.
 
 ---
 
