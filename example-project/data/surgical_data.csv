@@ -1,0 +1,121 @@
+patient_id,procedure,age,sex,asa_class,comorbidity_count,bmi,los_days,complication,complication_type
+1,Appendectomy,34,M,1,0,24.5,1,0,
+2,Cholecystectomy,56,F,2,2,28.3,2,0,
+3,Colectomy,68,M,3,4,26.7,7,1,Infection
+4,Hernia Repair,45,M,2,1,29.1,1,0,
+5,Appendectomy,28,F,1,0,22.8,1,0,
+6,Cholecystectomy,62,F,3,3,31.2,4,1,Bleeding
+7,Colectomy,71,M,3,5,25.9,9,1,Anastomotic leak
+8,Hernia Repair,52,M,2,2,27.4,1,0,
+9,Appendectomy,42,F,2,1,26.1,2,1,Abscess
+10,Cholecystectomy,59,F,2,2,30.5,2,0,
+11,Colectomy,65,M,3,4,24.8,8,1,Ileus
+12,Hernia Repair,48,F,1,0,23.6,1,0,
+13,Appendectomy,31,M,1,0,25.2,1,0,
+14,Cholecystectomy,54,F,2,1,27.9,2,0,
+15,Colectomy,73,F,4,6,23.1,11,1,Pneumonia
+16,Hernia Repair,39,M,1,0,26.8,1,0,
+17,Appendectomy,26,F,1,0,21.5,1,0,
+18,Cholecystectomy,61,M,3,3,32.4,3,1,Bile leak
+19,Colectomy,69,M,3,4,25.3,7,0,
+20,Hernia Repair,44,F,2,1,28.7,1,0,
+21,Appendectomy,37,M,2,1,27.2,1,0,
+22,Cholecystectomy,58,F,2,2,29.6,2,0,
+23,Colectomy,66,M,3,5,24.5,10,1,DVT
+24,Hernia Repair,50,M,2,2,30.1,2,1,Seroma
+25,Appendectomy,29,F,1,0,23.9,1,0,
+26,Cholecystectomy,63,F,3,3,31.8,4,1,Infection
+27,Colectomy,70,M,3,4,26.2,8,1,Ileus
+28,Hernia Repair,46,M,2,1,28.3,1,0,
+29,Appendectomy,33,F,1,0,24.8,1,0,
+30,Cholecystectomy,57,F,2,2,28.9,2,0,
+31,Colectomy,72,M,4,5,23.7,12,1,MI
+32,Hernia Repair,41,M,1,0,25.6,1,0,
+33,Appendectomy,35,F,2,1,26.4,2,0,
+34,Cholecystectomy,60,M,2,2,29.2,2,0,
+35,Colectomy,67,F,3,4,25.8,7,0,
+36,Hernia Repair,49,M,2,1,27.9,1,0,
+37,Appendectomy,30,M,1,0,23.4,1,0,
+38,Cholecystectomy,55,F,2,2,30.7,3,0,
+39,Colectomy,74,M,4,6,22.9,13,1,Sepsis
+40,Hernia Repair,43,F,2,1,26.5,1,0,
+41,Appendectomy,27,M,1,0,24.1,1,0,
+42,Cholecystectomy,59,F,3,3,31.5,4,1,Bleeding
+43,Colectomy,68,M,3,4,25.4,8,0,
+44,Hernia Repair,47,M,2,2,28.8,1,0,
+45,Appendectomy,32,F,1,0,22.6,1,0,
+46,Cholecystectomy,62,F,2,2,29.8,2,0,
+47,Colectomy,71,M,3,5,24.2,9,1,Ileus
+48,Hernia Repair,51,M,2,1,27.1,1,0,
+49,Appendectomy,36,F,2,1,25.9,2,0,
+50,Cholecystectomy,58,M,2,2,30.3,2,0,
+51,Colectomy,69,F,3,4,26.1,7,1,Infection
+52,Hernia Repair,45,M,1,0,26.7,1,0,
+53,Appendectomy,28,M,1,0,23.8,1,0,
+54,Cholecystectomy,61,F,3,3,32.1,5,1,Bile leak
+55,Colectomy,73,M,4,5,23.5,11,1,Pneumonia
+56,Hernia Repair,42,F,2,1,27.6,1,0,
+57,Appendectomy,31,M,1,0,24.9,1,0,
+58,Cholecystectomy,56,F,2,2,28.7,2,0,
+59,Colectomy,67,M,3,4,25.7,8,0,
+60,Hernia Repair,48,M,2,2,29.4,1,0,
+61,Appendectomy,29,F,1,0,22.3,1,0,
+62,Cholecystectomy,63,F,2,2,30.9,3,0,
+63,Colectomy,70,M,3,5,24.6,10,1,Anastomotic leak
+64,Hernia Repair,44,M,2,1,28.2,1,0,
+65,Appendectomy,34,F,2,1,26.8,2,0,
+66,Cholecystectomy,59,M,2,2,29.5,2,0,
+67,Colectomy,72,F,4,6,23.2,12,1,Sepsis
+68,Hernia Repair,46,M,1,0,27.8,1,0,
+69,Appendectomy,26,M,1,0,24.6,1,0,
+70,Cholecystectomy,60,F,3,3,31.7,4,1,Infection
+71,Colectomy,68,M,3,4,25.9,7,0,
+72,Hernia Repair,50,F,2,2,28.5,2,1,Hematoma
+73,Appendectomy,33,M,1,0,23.7,1,0,
+74,Cholecystectomy,57,F,2,2,29.1,2,0,
+75,Colectomy,71,M,3,5,24.8,9,1,DVT
+76,Hernia Repair,43,M,2,1,26.9,1,0,
+77,Appendectomy,30,F,1,0,25.4,1,0,
+78,Cholecystectomy,62,M,2,2,30.6,2,0,
+79,Colectomy,69,F,3,4,26.3,8,1,Ileus
+80,Hernia Repair,47,M,2,1,27.3,1,0,
+81,Appendectomy,35,M,2,1,24.2,2,1,Abscess
+82,Cholecystectomy,58,F,2,2,29.3,2,0,
+83,Colectomy,66,M,3,5,25.1,10,1,Infection
+84,Hernia Repair,49,F,1,0,28.9,1,0,
+85,Appendectomy,27,M,1,0,23.1,1,0,
+86,Cholecystectomy,61,F,3,3,31.4,3,0,
+87,Colectomy,74,M,4,6,22.7,14,1,MI
+88,Hernia Repair,41,M,2,1,26.2,1,0,
+89,Appendectomy,32,F,1,0,25.7,1,0,
+90,Cholecystectomy,59,M,2,2,30.2,2,0,
+91,Colectomy,70,F,3,4,24.9,8,0,
+92,Hernia Repair,45,M,2,2,27.7,1,0,
+93,Appendectomy,28,F,1,0,22.9,1,0,
+94,Cholecystectomy,63,F,2,2,29.7,2,0,
+95,Colectomy,68,M,3,5,25.6,9,1,Ileus
+96,Hernia Repair,51,M,2,1,28.4,1,0,
+97,Appendectomy,36,F,2,1,26.1,2,0,
+98,Cholecystectomy,57,M,2,2,30.8,2,0,
+99,Colectomy,72,F,4,5,23.4,11,1,Sepsis
+100,Hernia Repair,44,M,1,0,27.5,1,0,
+101,Appendectomy,31,M,1,0,24.3,1,0,
+102,Cholecystectomy,60,F,3,3,31.9,4,1,Bile leak
+103,Colectomy,69,M,3,4,26.4,7,0,
+104,Hernia Repair,48,F,2,1,28.6,1,0,
+105,Appendectomy,29,M,1,0,23.5,1,0,
+106,Cholecystectomy,62,F,2,2,29.9,2,0,
+107,Colectomy,71,M,3,5,24.4,10,1,Anastomotic leak
+108,Hernia Repair,46,M,2,2,27.9,1,0,
+109,Appendectomy,34,F,1,0,25.8,1,0,
+110,Cholecystectomy,58,M,2,2,30.4,2,0,
+111,Colectomy,67,F,3,4,25.2,8,1,Infection
+112,Hernia Repair,42,M,1,0,26.6,1,0,
+113,Appendectomy,26,M,1,0,24.7,1,0,
+114,Cholecystectomy,61,F,3,3,31.6,5,1,Bleeding
+115,Colectomy,73,M,4,6,23.3,13,1,Pneumonia
+116,Hernia Repair,50,M,2,1,28.1,1,0,
+117,Appendectomy,33,F,2,1,26.3,2,0,
+118,Cholecystectomy,59,M,2,2,29.6,2,0,
+119,Colectomy,70,F,3,5,24.7,9,0,
+120,Hernia Repair,47,M,2,2,27.2,1,0,
