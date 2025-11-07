@@ -1,4 +1,4 @@
-# Vibe Coding for Surgeons: Start Analyzing Data in 1 Hour
+# Vibe Coding for Surgeons: Start Analysing Data in 1 Hour
 
 > **The Philosophy:** You don't need to be a programmer. You need to describe what you want, and AI (Claude) writes the code.
 
@@ -7,14 +7,14 @@
 **Traditional Approach:**
 1. Take Python course (40 hours)
 2. Learn statistics libraries (20 hours)
-3. Master data visualization (10 hours)
-4. Finally start your analysis (😴)
+3. Master data visualisation (10 hours)
+4. Finally start your analysis
 
 **Vibe Coding Approach:**
 1. Install 3 things (15 minutes)
 2. Tell Claude what you want (5 minutes)
 3. Claude writes the code (instant)
-4. You're analyzing data! 🎉
+4. You're analysing data! 
 
 **The Key Insight:** Modern AI (like Claude) can write code. You just need to know:
 - What's possible
@@ -102,7 +102,7 @@ Think of Claude like an enthusiastic intern:
 - Graphs match your data
 - Results align with clinical reality
 
-**YOU are the attending. Claude is your resident.** Review everything.
+**Review everything.** 
 
 ---
 
@@ -147,12 +147,6 @@ my_surgical_analysis/
 
 ---
 
-## Common Questions
-
-### "I've never coded before. Can I really do this?"
-
-Yes! The whole point is that Claude does the coding. You just describe what you want in plain English (or medical jargon).
-
 ### "How much does this cost?"
 
 - **Anaconda:** Free
@@ -180,7 +174,7 @@ Common formats that work:
 - SPSS files (.sav)
 - Stata files (.dta)
 
-### "Is this HIPAA compliant?"
+### "Is this patient data compliant?"
 
 **CRITICAL SAFETY WARNING:**
 
@@ -190,13 +184,7 @@ Common formats that work:
 - ✅ **DO** remove dates of birth, exact dates (use relative times)
 - ✅ **DO** check your institution's data policy
 
-When in doubt, consult your IRB or informatics team.
-
-### "What if I want to learn 'real' coding later?"
-
-This guide gets you productive immediately. If you enjoy it and want to dive deeper, great! You'll have a foundation. But you don't need to.
-
-Many surgeons use vibe coding their entire career and publish plenty of papers.
+When in doubt, err on the side of caution and consult your data lead.
 
 ---
 
@@ -207,18 +195,3 @@ Many surgeons use vibe coding their entire career and publish plenty of papers.
 → **[Go to Quick Setup Guide](docs/quick-setup.md)** (15 minutes)
 
 ---
-
-## About This Guide
-
-**Created for:** Surgical residents and attendings who want to analyze their own data  
-**Time investment:** 1 hour to get started, then as needed  
-**Philosophy:** AI does the coding, you do the thinking  
-**License:** Use freely, share widely  
-
-**Questions or improvements?** This is a living document. Feedback welcome!
-
----
-
-**Remember:** You don't need to memorize anything. Just know what's possible, ask Claude clearly, and verify the results make sense. That's vibe coding.
-
-Now let's build something! 🚀
