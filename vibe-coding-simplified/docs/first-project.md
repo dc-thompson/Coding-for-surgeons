@@ -141,7 +141,7 @@ Common file types:
 - `outcomes.xlsx` - Excel file
 - `patient_list.txt` - Text file
 
-**HIPAA warning:** ⚠️ Make sure data is de-identified before putting it here!
+**Patient data warning:** ⚠️ Make sure data is de-identified before putting it here!
 
 ### `analysis.ipynb` file
 
