@@ -439,34 +439,7 @@ We welcome contributions! Whether it's:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-**TL;DR:** Use it freely, share it widely, modify as needed. Just keep the attribution.
-
----
-
-## 🙏 Acknowledgments
-
-**Created for:** Surgical residents who want to analyze their own data without becoming software engineers
-
-**Philosophy inspired by:** The realization that AI changes everything about how we code
-
-**Special thanks to:** All the surgical residents who will use this to publish better papers faster
-
----
-
-## 📞 Support
-
-### Questions or Issues?
-
-1. **Check the guides** - Most questions are answered in the documentation
-2. **Read the FAQs** - See [`vibe-coding-simplified/README.md#common-questions`](vibe-coding-simplified/README.md)
-3. **Ask Claude** - Seriously! `claude chat "How do I..."`
-4. **Open an issue** - If you find bugs or have suggestions
-
-### Stay Connected
-
-- 🐦 Twitter: [@yourusername]
-- 📧 Email: your.email@institution.edu
-- 💬 Discussions: [GitHub Discussions](https://github.com/yourusername/vibe-coding-for-surgeons/discussions)
+**TL;DR:** Use it freely, share it widely, modify as needed. Just keep the attribution
 
 ---
 
