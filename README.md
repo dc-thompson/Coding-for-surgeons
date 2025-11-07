@@ -6,19 +6,13 @@
 
 ---
 
-## 🎯 What is This?
-
-**The Problem:** You have surgical data. You want to analyze it. But learning Python takes months, and you just want to get it done.
-
-**The Solution:** Use AI (Claude) to write the code for you.
-
-**This Repository:** A complete guide + working example that gets surgeons analysing data in hours, not weeks.
+**This Repository:** A quick guide + working example that gets surgeons analysing data in hours, not weeks.
 
 ---
 
-## ⚡ Quick Start (5 Minutes)
+## Quick Start (5 Minutes)
 
-**Want to see results immediately?** Start here:
+Start here:
 
 1. **Clone or download** this repository
 2. **Navigate to** `example-project/`
@@ -26,17 +20,17 @@
 4. **Click** "Run All"
 5. **Check** the `results/` folder for publication-ready outputs
 
-**🎉 You just completed a full surgical complication analysis!**
+**You should have just completed a surgical complication analysis**
 
-Now you know it works. Let's get you set up for your own data.
+Use this as a guiderail and start playing with your own data.
 
 ---
 
-## 📦 What's Included
+## What's Included
 
 This repository contains **two learning resources:**
 
-### 1. 📚 Simplified Guide (`vibe-coding-simplified/`)
+### 1. Simplified Guide (`vibe-coding-simplified/`)
 
 A 6-file guide that teaches you:
 - ✅ The vibe coding philosophy ("AI codes, you think")
@@ -64,7 +58,7 @@ A complete, ready-to-run Jupyter notebook with:
 
 Choose based on your style:
 
-### Path A: Do First, Learn Later (Recommended ⚡)
+### Path A: Do First, Learn Later
 
 **Best for:** People who learn by doing
 
@@ -118,7 +112,7 @@ vibe-coding-for-surgeons/
 
 ---
 
-## 💡 What You'll Learn
+## Learning objectives
 
 After completing this guide, you'll be able to:
 
