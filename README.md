@@ -6,7 +6,7 @@
 
 ---
 
-**This Repository:** A quick guide + working example that gets surgeons analysing data in hours, not weeks.
+**This Repository:** A quick guide + working example for data analysis using a vibe-coding strategy
 
 ---
 
@@ -221,7 +221,7 @@ Replace `example-project/data/surgical_data.csv` with your own data and modify t
 1. **[README.md](vibe-coding-simplified/README.md)** (5 min read)
    - Philosophy: "AI codes, you think"
    - What you'll learn
-   - Safety warnings (HIPAA, verification)
+   - Safety warnings (Patient data, verification)
 
 2. **[docs/quick-setup.md](vibe-coding-simplified/docs/quick-setup.md)** (15 min to do)
    - Install Anaconda, VS Code, Claude Code
@@ -319,7 +319,7 @@ This gives Claude everything needed for excellent code!
 
 ## ⚠️ Safety & Best Practices
 
-### HIPAA Compliance
+### Information Governance Compliance
 
 **⚠️ CRITICAL:** Never upload identifiable patient data to Claude!
 
@@ -471,25 +471,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 3. **📚 Read the guide** (1 hour)
 4. **🔧 Adapt to your data** (30 minutes)
 5. **📝 Publish your analysis!**
-
----
-
-## ⭐ Star This Repository
-
-If this helped you analyze your surgical data, please star this repository! It helps other residents find it.
-
----
-
-**Ready to start?** [Jump to Quick Start](#-quick-start-5-minutes) or [Read the Guide](vibe-coding-simplified/README.md)
-
----
-
-<p align="center">
-<strong>Remember: AI does the coding, you do the thinking.</strong><br>
-<em>You're the attending. Claude is your resident.</em><br>
-🩺 Now go analyze some data! 🚀
-</p>
-
----
-
-<sub>Built with ❤️ for surgical residents who are tired of waiting months for statisticians</sub>
